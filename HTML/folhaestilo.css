@@ -1,0 +1,16 @@
+<style type="text/css">
+
+body {
+    font-family: "Times New Roman";
+    color: greenyellow;
+    background-color: aqua;
+    background-image: "time.jpg"
+}
+
+redondo {
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    border-radius: "50%";
+}
+</style>
